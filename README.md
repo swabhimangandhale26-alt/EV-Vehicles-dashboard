@@ -113,4 +113,4 @@ Reason: Allows users to perform dynamic analysis and drill into specific segment
 
 
 Screenshot
-    https://github.com/swabhimangandhale26-alt/EV-Vehicles-dashboard/blob/main/EV%20vehicles%20analysis.png
+      ![Dashboard Preview](https://github.com/swabhimangandhale26-alt/EV-Vehicles-dashboard/blob/main/EV%20vehicles%20analysis.png)
