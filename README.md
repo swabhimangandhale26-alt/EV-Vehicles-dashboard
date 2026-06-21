@@ -113,5 +113,4 @@ Reason: Allows users to perform dynamic analysis and drill into specific segment
 
 
 Screenshot
-
-Include a high-resolution screenshot of the final dashboard below this section to provide a visual overview of the report and its key insights.
+    https://github.com/swabhimangandhale26-alt/EV-Vehicles-dashboard/blob/main/EV%20vehicles%20analysis.png
